@@ -21,3 +21,9 @@ Hilos | Tiempo (s) | Speedup | Eficiencia
    16 |      0.006 |    0.63 |      0.04
    32 |      0.013 |    0.30 |      0.01
 ```
+
+# Autor
+```bash
+@name: me@ranygermosen.com
+@pucmm_id: 1013-4707
+```
